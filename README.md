@@ -54,6 +54,8 @@ python test_turtle_erase.py --img random
 
 * Copying the 20x20 Mona-Lisa from a random landscape
 
-![image1](img/random.png)
+![image1](paper/random.png)
+
+See the details for the paper [here](paper/turtle_neat.pdf)
 
 
