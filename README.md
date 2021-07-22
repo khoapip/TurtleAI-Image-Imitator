@@ -51,3 +51,9 @@ python test_turtle_erase.py --img picture/mona.jpg
 python test_turtle_erase.py --img random
 
 ```
+
+* Copying the 20x20 Mona-Lisa from a random landscape
+
+![image1](img/random.png)
+
+
