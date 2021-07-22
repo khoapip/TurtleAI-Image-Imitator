@@ -1,6 +1,7 @@
 # Project Description
 
-* This is the code for my project of evolving a Turtle to replicate an Image
+* This is the code for my project of evolving a Turtle to replicate a 20x20
+  Image in my Evolutionary Course
 * The Trainings take place in 3 different files:
     * `train_mona.py` contains the code for my first 2 experiment, the default
       config is feed-forward NEAT.
@@ -56,6 +57,4 @@ python test_turtle_erase.py --img random
 
 ![image1](paper/random.png)
 
-See the details for the paper [here](paper/turtle_neat.pdf)
-
-
+See the detail experiments in the course's final paper [here](paper/turtle_neat.pdf)
